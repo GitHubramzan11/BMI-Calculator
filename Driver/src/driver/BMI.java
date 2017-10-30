@@ -528,27 +528,6 @@ public class BMI extends javax.swing.JFrame {
         }
   
     }//GEN-LAST:event_btnCalculateBmiActionPerformed
-
-    private void ageTextFieldMouseEntered(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_ageTextFieldMouseEntered
-        // TODO add your handling code here:
-    }//GEN-LAST:event_ageTextFieldMouseEntered
-
-    private void ageTextFieldMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_ageTextFieldMouseExited
-        // TODO add your handling code here:
-        
-    }//GEN-LAST:event_ageTextFieldMouseExited
-    
-    private void ageTextFieldFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_ageTextFieldFocusGained
-        // TODO add your handling code here:
-        //ageTextField.setForeground(Color.black);
-        //ageTextField.setText("");
-        
-    }//GEN-LAST:event_ageTextFieldFocusGained
-
-    private void ageTextFieldFocusLost(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_ageTextFieldFocusLost
-        // TODO add your handling code here:
-    }//GEN-LAST:event_ageTextFieldFocusLost
-
     private void lengthComboBoxPopupMenuWillBecomeInvisible(javax.swing.event.PopupMenuEvent evt) {//GEN-FIRST:event_lengthComboBoxPopupMenuWillBecomeInvisible
         // TODO add your handling code here:
         if((String)lengthComboBox.getSelectedItem() == "FT+IN"){
