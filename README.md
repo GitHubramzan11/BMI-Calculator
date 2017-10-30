@@ -1,2 +1,2 @@
 # BMI-Calculator
-Meeasuring Ideal Weight, FAT and BMI 
+Measuring Ideal Weight, FAT and BMI 
