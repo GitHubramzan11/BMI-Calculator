@@ -18,6 +18,5 @@ public class Driver {
         // TODO code application logic here
         BMI frm = new BMI();
         frm.show();
-    }
-    
+    }   
 }
