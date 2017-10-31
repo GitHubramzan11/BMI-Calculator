@@ -476,7 +476,6 @@ public class BMI extends javax.swing.JFrame {
             
             /* formula for female childs */
             if ( iAge > 1 && iAge < 18) {
-                
                 double bfp = (1.51 * iBmi) -(0.07 * iAge) - (3.6 * 0) + 1.4;
                 if (bfp > 0) {
                     String pBfp = "" + bfp;
